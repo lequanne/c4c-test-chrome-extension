@@ -8,6 +8,7 @@
  <li>It allows one to visualise a demo or feature as if it were in production</li>
  <li>Saves html and css as we test prototypes internally and within an open source environment,  Github.</li>
  <li>Creates a version history of each prototype</li>
+ </ul>
 
 <p>There are, however, many other applications for this type of extension, such as modifying the styling of a website, hiding an annoying element, auto-populating a form, or clicking something on page load--we are exploring this as we see fit.</p>
  
