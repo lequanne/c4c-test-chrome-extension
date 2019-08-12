@@ -5,7 +5,7 @@
 <ul>
  <li>No access is required to the websites source files to test ideas</li>
  <li>The extension shares assets with the page, so matching styling is easy</li>
- <li>It allows one to visualise a demo or feature as if it were in production</li>
+ <li>It allows one to visualise a demo or feature as if it were in production as well as navigate the website with the changes</li>
  <li>Saves html and css as we test prototypes internally and within an open source environment,  Github.</li>
  <li>Creates a version history of each prototype</li>
  </ul>
