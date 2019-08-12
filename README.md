@@ -1,6 +1,6 @@
 # c4c-test-chrome-extension 
 
-<p>This chrome extension is a technique that the Code for Canada team at the National Energy Board is using to visualise and test design changes on the <a href="https://apps.neb-one.gc.ca/REGDOCS/">REGDOCs</a>website in real time. This is useful because: </p>
+<p>This chrome extension is a technique that the Code for Canada team at the National Energy Board is using to visualise and test design changes on the <a href="https://apps.neb-one.gc.ca/REGDOCS/">REGDOCs</a> website in real time. This is useful because: </p>
 
 <p>No access is required to the websites source files to test ideas<br>
 The extension shares assets with the page, so matching styling is easy<br>
