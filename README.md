@@ -2,11 +2,11 @@
 
 <p>This chrome extension is a technique that the Code for Canada team at the National Energy Board is using to visualise and test design changes on the <a href="https://apps.neb-one.gc.ca/REGDOCS/">REGDOCs</a> website in real time. This is useful because: </p>
 
-<p><ul>No access is required to the websites source files to test ideas</ul><br>
-<ul>The extension shares assets with the page, so matching styling is easy</ul><br>
-<ul>It allows one to visualise a demo or feature as if it were in production</ul><br>
-<ul>Saves html and css as we test prototypes internally and within an open source environment,  Github.</ul><br>
-<ul>Creates a version history of each prototype</ul></p>
+<ul>No access is required to the websites source files to test ideas</ul>
+<ul>The extension shares assets with the page, so matching styling is easy</ul>
+<ul>It allows one to visualise a demo or feature as if it were in production</ul>
+<ul>Saves html and css as we test prototypes internally and within an open source environment,  Github.</ul>
+<ul>Creates a version history of each prototype</ul>
 
 <p>There are, however, many other applications for this type of extension, such as modifying the styling of a website, hiding an annoying element, auto-populating a form, or clicking something on page load--we are exploring this as we see fit.</p>
  
