@@ -12,6 +12,6 @@ Creates a version history of each prototype </p>
  
 <p><strong>tl:dr this is our front-end design playground for the <a href="https://apps.neb-one.gc.ca/REGDOCS/">National Energy Board's regulatory database</a></strong></p>
 
-<p>Source: https://blog.lateral.io/2016/04/create-chrome-extension-modify-websites-html-css/</p>
+<p>Several key lines of code were inspired by this blog post: https://blog.lateral.io/2016/04/create-chrome-extension-modify-websites-html-css/</p>
 
 
