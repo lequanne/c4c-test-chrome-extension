@@ -16,6 +16,6 @@
 
 <p>Learn more about about why are redesigning this digital product by watching<a href="https://www.youtube.com/watch?v=ymCTBJWSkE8> this video</a>.</p>
  
-<p>Several key lines of code were inspired by <a href="https://blog.lateral.io/2016/04/create-chrome-extension-modify-websites-html-css/">this blog post</a>.</p>
+<p>Several key lines of code were inspired by<a href="https://blog.lateral.io/2016/04/create-chrome-extension-modify-websites-html-css/"> this blog post</a>.</p>
 
 
