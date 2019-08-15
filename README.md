@@ -14,4 +14,6 @@
 <p><strong>tl:dr this is our front-end design playground for the <a href="https://apps.neb-one.gc.ca/REGDOCS/">National Energy Board's regulatory database</a></strong>.</p>
 <p>Several key lines of code were inspired by <a href="https://blog.lateral.io/2016/04/create-chrome-extension-modify-websites-html-css/">this blog post</a>.</p>
 
+</p>Why are we redesigning this digital product?<a href="https://www.youtube.com/watch?v=ymCTBJWSkE8>Learn more</a>.</p>
+
 
