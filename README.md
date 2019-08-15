@@ -1,6 +1,6 @@
 # c4c-test-chrome-extension 
 
-<p>This chrome extension is a technique that the Code for Canada team at the National Energy Board is using to visualise and test design changes on the <a href="https://apps.neb-one.gc.ca/REGDOCS/">REGDOCs</a> website in real time. This is useful because: </p>
+<p>This chrome extension is a technique that the <a href="https://medium.com/code-for-canada/meet-the-2019-code-for-canada-fellows-6291c60a32ef">Code for Canada team at the National Energy Board</a> is using to visualise and test design changes on the <a href="https://apps.neb-one.gc.ca/REGDOCS/">REGDOCs</a> website in real time. This is useful because: </p>
 
 <ul>
  <li>No access is required to the websites source files to test ideas</li>
@@ -14,6 +14,8 @@
  
 <p><strong>tl:dr this is our front-end design playground for the <a href="https://apps.neb-one.gc.ca/REGDOCS/">National Energy Board's regulatory database</a></strong></p>
 
-<p>Several key lines of code were inspired by this blog post: https://blog.lateral.io/2016/04/create-chrome-extension-modify-websites-html-css/</p>
+<p>Learn more about about why are redesigning this digital product by watching<a href="https://www.youtube.com/watch?v=ymCTBJWSkE8> this video</a>.</p>
+ 
+<p>Several key lines of code were inspired by <a href="https://blog.lateral.io/2016/04/create-chrome-extension-modify-websites-html-css/">this blog post</a>.</p>
 
 
