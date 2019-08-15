@@ -11,9 +11,7 @@
  </ul>
 
 <p>There are, however, many other applications for this type of extension, such as modifying the styling of a website, hiding an annoying element, auto-populating a form, or clicking something on page load--we are exploring this as we see fit.</p>
- 
 <p><strong>tl:dr this is our front-end design playground for the <a href="https://apps.neb-one.gc.ca/REGDOCS/">National Energy Board's regulatory database</a></strong>.</p>
-<p>Learn more about about why are redesigning this digital product by watching<a href="https://www.youtube.com/watch?v=ymCTBJWSkE8> this video</a>.</p>
-<p>Several key lines of code were inspired by<a href="https://blog.lateral.io/2016/04/create-chrome-extension-modify-websites-html-css/"> this blog post</a>.</p>
+<p>Learn more about about why are redesigning this digital product by watching<a href="https://www.youtube.com/watch?v=ymCTBJWSkE8> this video</a>. Several key lines of code were inspired by<a href="https://blog.lateral.io/2016/04/create-chrome-extension-modify-websites-html-css/"> this blog post</a>.</p>
 
 
