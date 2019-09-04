@@ -3,7 +3,7 @@
  
   "name": "Modify CSS and HTML",
   "version": "0.1.0",
-  "description": "Code for Canada demo extension",
+  "description": "Code for Canada testing chrome extension, CER version",
  
   "content_scripts": [{
     "css": ["styles.css"],
