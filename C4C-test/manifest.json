@@ -8,7 +8,7 @@
   "content_scripts": [{
     "css": ["styles.css"],
     "js": ["content.js"],
-    "matches": ["https://apps.neb-one.gc.ca/REGDOCS/*"]
+    "matches": ["https://apps.cer-rec.gc.ca/REGDOCS/*"]
   }]
  
 }
